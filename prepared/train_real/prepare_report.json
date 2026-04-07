@@ -1,0 +1,23 @@
+{
+  "dataset": {
+    "images": 12,
+    "instances": 262,
+    "classes": [
+      "Type_1",
+      "Type_2",
+      "Type_3",
+      "Type_4",
+      "Type_5"
+    ]
+  },
+  "assets": {
+    "instances": 262,
+    "classes": {
+      "Type_1": 75,
+      "Type_2": 41,
+      "Type_3": 39,
+      "Type_4": 77,
+      "Type_5": 30
+    }
+  }
+}

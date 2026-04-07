@@ -1,0 +1,5 @@
+{
+  "best": "/media/ywx/disk/work/Computer Vision/hw3/runs/segment/outputs/train/seg_train/weights/best.pt",
+  "last": "/media/ywx/disk/work/Computer Vision/hw3/runs/segment/outputs/train/seg_train/weights/last.pt",
+  "save_dir": "/media/ywx/disk/work/Computer Vision/hw3/runs/segment/outputs/train/seg_train"
+}

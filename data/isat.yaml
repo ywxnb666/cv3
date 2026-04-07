@@ -1,0 +1,15 @@
+label:
+- color: '#000000'
+  name: __background__
+- color: '#00ff00'
+  name: type0
+- color: '#ffff00'
+  name: type1
+- color: '#00ffff'
+  name: type2
+- color: '#0011ff'
+  name: type3
+- color: '#ff00f2'
+  name: type4
+- color: '#ff0004'
+  name: type5

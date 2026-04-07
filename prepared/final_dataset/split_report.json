@@ -1,0 +1,31 @@
+{
+  "train_real": [
+    "02.png",
+    "raw_03_warp6.png",
+    "raw_07_warp6.png",
+    "raw_08_warp6.png",
+    "raw_04_warp6.png",
+    "raw_02_warp6.png",
+    "raw_05_warp6.png",
+    "raw_06_warp6.png",
+    "01.png",
+    "raw_01_warp6.png"
+  ],
+  "val_real": [
+    "raw_09_warp6.png",
+    "raw_10_warp5.png"
+  ],
+  "val_scores": [
+    {
+      "image": "raw_09_warp6.png",
+      "instances": 26,
+      "max_overlap": 0.14117532291977306
+    },
+    {
+      "image": "raw_10_warp5.png",
+      "instances": 25,
+      "max_overlap": 0.09627375316856962
+    }
+  ],
+  "synth_added": 360
+}

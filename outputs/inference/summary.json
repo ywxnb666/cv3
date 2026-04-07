@@ -1,0 +1,31 @@
+{
+  "images": [
+    {
+      "image": "01.png",
+      "instances": 22
+    },
+    {
+      "image": "02.png",
+      "instances": 23
+    },
+    {
+      "image": "03.png",
+      "instances": 21
+    },
+    {
+      "image": "04.png",
+      "instances": 18
+    },
+    {
+      "image": "05.png",
+      "instances": 13
+    }
+  ],
+  "classes": [
+    "Type_1",
+    "Type_2",
+    "Type_3",
+    "Type_4",
+    "Type_5"
+  ]
+}

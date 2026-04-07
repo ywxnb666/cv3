@@ -1,0 +1,9 @@
+path: /media/ywx/disk/work/Computer Vision/hw3/prepared/train_real
+train: images
+val: images
+names:
+  0: Type_1
+  1: Type_2
+  2: Type_3
+  3: Type_4
+  4: Type_5
