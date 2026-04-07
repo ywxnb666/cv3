@@ -1,1 +1,4 @@
 *.zip
+outputs/
+prepared/
+__pycache__/
